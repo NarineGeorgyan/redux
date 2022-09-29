@@ -1,0 +1,5 @@
+.navbar-nav,
+.navbar-nav .show > .nav-link {
+  font-weight: 800;
+  color: azure;
+}
